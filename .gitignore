@@ -1,0 +1,7 @@
+ *.log
+
+# IDE files
+dashbee/.idea/
+
+# Python cache
+dashbee/__pycache__/
